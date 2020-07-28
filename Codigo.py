@@ -9,3 +9,15 @@ class Producto:
 			
 			return self.
 		pass
+		
+		
+class Supermercado:
+	
+		
+		
+		
+		
+		
+		
+		
+		
