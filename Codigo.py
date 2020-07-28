@@ -6,6 +6,6 @@ class Producto:
 		return self._nombre
 	def precio(self):
 		if primera_necesidad():
-		
-			return 
+			
+			return self.
 		pass
